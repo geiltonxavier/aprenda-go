@@ -41,6 +41,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Aprenda a programar em Go ](https://www.udemy.com/cursodego/) | Jeff Prestes/Udemy | :green_heart: | Go | :moneybag:
 [Iniciando com Go para Web](https://www.schoolofnet.com/curso-iniciando-com-go-para-web/) | School of Net | :green_heart: | Go | :free:
 [Go Básico](https://www.treinaweb.com.br/curso/go-basico) | Treinaweb | :green_heart: | Go | :moneybag:
+[Introdução a Linguagem Go (Golang)](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) | EuProgramador/YouTube | :green_heart: | Go | :free:
 [Creating Web Applications with Go](https://app.pluralsight.com/library/courses/creating-web-applications-go-update) | Pluralsight | :large_orange_diamond: | Go | :moneybag:
 [Building Distributed Applications with Go](https://app.pluralsight.com/library/courses/go-build-distributed-applications) | Pluralsight | :red_circle: | Go | :moneybag:
 
@@ -78,6 +79,8 @@ Blog | Principal(is) Autor(es) | Idioma
 Título | Evento | Assuntos
 :-- | :-- | :--
 [GopherCon Brasil](https://www.youtube.com/playlist?list=PLOpPtg0fjj4g5nB62khFCGAzhYOXuY_0k) | GopherCon | Go Stack, Empreendedorismo
+[7Masters Golang](https://www.youtube.com/watch?v=vWdLM3IK0gw&list=PLXFk6ROPeWoC3KHa6HOVMpRjhZkaRyLIh) | 7Masters | Go Stack, Casos de uso
+[Por que Golang?](https://www.youtube.com/watch?v=h_9UNH6pkyo) | 7Masters | Adoção da linguagem, Sintaxe, Asincronismo
 
 
 [Ir para o índice](#Índice)
@@ -113,6 +116,7 @@ Nome da Comunidade | Tipo | Idioma
 Nome do Feed | Idioma
 :-- | :--:
 [Go News](https://golangweekly.com/) | Inglês
+[A Semana Go](http://asemanago.com.br/) | Português
 
 
 [Ir para o índice](#Índice)
@@ -123,6 +127,7 @@ Nome do Podcast | Idioma
 [Ruby Rogues](https://devchat.tv/ruby-rogues) | Inglês
 [Wiki Podcasts](https://github.com/golang/go/wiki/Podcasts) | Inglês
 [Gopher Pods](https://gopherpods.appspot.com/) | Inglês
+[PodTech](https://soundcloud.com/euprogramador/sets/podtech/) | Português
 
 
 
@@ -132,19 +137,20 @@ Nome do Podcast | Idioma
 ## :bust_in_silhouette: Gophers
 Nome | Github
 :-- | :--:
-Jeff Prestes | [jeffprestes](https://github.com/jeffprestes)
-Thiago Avelino | [avelino](https://github.com/avelino)
 Cesar Gimenes | [crgimenes](https://github.com/crgimenes)
-Felipe Oliveira | [felipeweb](https://github.com/felipeweb)
-Peter Bourgon | [peterbourgon](https://github.com/peterbourgon)
-Johnny Boursiquot | [jboursiquot](https://github.com/jboursiquot)
-Francesc Campoy | [campoy](https://github.com/campoy)
 Dave Cheney | [davecheney](https://github.com/davecheney)
+Eliseu Codinhoto | [zeucxb](https://github.com/zeucxb)
+Felipe Oliveira | [felipeweb](https://github.com/felipeweb)
+Francesc Campoy | [campoy](https://github.com/campoy)
 Jaana B. Dogan | [rakyll](https://github.com/rakyll/)
-Nate Finch| [natefinch](https://github.com/natefinch)
-Steve Francia | [spf13](https://github.com/spf13)
+Jeff Prestes | [jeffprestes](https://github.com/jeffprestes)
 Jess Frazelle | [jessfraz](https://github.com/jessfraz)
+Johnny Boursiquot | [jboursiquot](https://github.com/jboursiquot)
 Kelsey Hightower | [kelseyhightower](https://github.com/kelseyhightower)
+Nate Finch| [natefinch](https://github.com/natefinch)
+Peter Bourgon | [peterbourgon](https://github.com/peterbourgon)
+Steve Francia | [spf13](https://github.com/spf13)
+Thiago Avelino | [avelino](https://github.com/avelino)
 
 
 
