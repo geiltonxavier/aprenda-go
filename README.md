@@ -133,6 +133,7 @@ Nome | Github
 :-- | :--:
 Thiago Avelino | [avelino](https://github.com/avelino)
 Cesar Gimenes | [crgimenes](https://github.com/crgimenes)
+Felipe Oliveira | [felipeweb](https://github.com/felipeweb)
 Peter Bourgon | [peterbourgon](https://github.com/peterbourgon)
 Johnny Boursiquot | [jboursiquot](https://github.com/jboursiquot)
 Francesc Campoy | [campoy](https://github.com/campoy)
