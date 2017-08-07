@@ -12,7 +12,7 @@
 	</a>
 </p>
 
-Uma lista contendo cursos, livros, blogs, Palestras etc. Inspirada em [aprenda-rubyonrails](https://github.com/felipeorlando/aprenda-rubyonrails).
+Uma lista contendo cursos, livros, blogs, palestras, etc. Inspirada em [aprenda-rubyonrails](https://github.com/felipeorlando/aprenda-rubyonrails).
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
