@@ -38,7 +38,7 @@ Uma lista contendo cursos, livros, blogs, palestras, etc. Inspirada em [aprenda-
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-[Aprenda a programar em Go](https://www.udemy.com/cursodego/) | Jeff Prestes | :large_orange_diamond: | Go | :moneybag:
+[Aprenda a programar em Go ](https://www.udemy.com/cursodego/) | Jeff Prestes | :large_orange_diamond: | Go | :moneybag:
 [Iniciando com Go para Web](https://www.schoolofnet.com/curso-iniciando-com-go-para-web/) | School of Net | :green_heart: | Go | :free:
 [Go Básico](https://www.treinaweb.com.br/curso/go-basico) | Treinaweb | :large_orange_diamond: | Go | :moneybag:
 [Building Distributed Applications with Go](https://app.pluralsight.com/library/courses/go-build-distributed-applications) | Pluralsight | :red_circle: | Go | :moneybag:
