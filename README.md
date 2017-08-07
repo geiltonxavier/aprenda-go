@@ -59,6 +59,7 @@ Título | Assunto | Formato | Preço | Idioma
 [Introdução à linguagem Go](https://novatec.com.br/livros/introducao-linguagem-go/) | Go | Físico | :moneybag: | Português
 [An Introduction to Programming in Go](http://www.golang-book.com/books/intro) | Go | E-book | :free: | Inglês
 [Programando em Go](https://www.casadocodigo.com.br/products/livro-google-go) | Go | E-book e Físico | :moneybag: | Português
+[Go by Example](https://gobyexample.com/) | Go | E-book | :free: | Inglês
 
 
 [Ir para o índice](#Índice)
