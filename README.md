@@ -131,6 +131,7 @@ Nome do Podcast | Idioma
 ## :bust_in_silhouette: Gophers
 Nome | Github
 :-- | :--:
+Jeff Prestes | [jeffprestes](https://github.com/jeffprestes)
 Thiago Avelino | [avelino](https://github.com/avelino)
 Cesar Gimenes | [crgimenes](https://github.com/crgimenes)
 Felipe Oliveira | [felipeweb](https://github.com/felipeweb)
