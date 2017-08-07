@@ -67,7 +67,7 @@ Título | Assunto | Formato | Preço | Idioma
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-[Avelino](https://medium.com/@avelino0) | Nando Vieira | Português/Inglês
+[Avelino](https://medium.com/@avelino0) | Thiago Avelino | Português/Inglês
 [goinggo](https://goinggo.io/) | João Henrique Machado | Inglês
 
 [Ir para o índice](#Índice)
