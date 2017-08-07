@@ -67,7 +67,7 @@ Título | Assunto | Nível | Formato | Preço | Idioma
 [Test-driven development with Go ](https://leanpub.com/golang-tdd) | Go |:large_orange_diamond: | E-book | :free: | Inglês
 [Go in Practice](http://www.manning.com/butcher/) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
 [A Go Developer's Notebook](https://leanpub.com/GoNotebook/) | Go |:large_orange_diamond: | E-book | :moneybag: | Inglês
-[The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143) | Go | :green_heart: E-book | :moneybag: | Inglês
+[The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143) | Go | :green_heart: | E-book | :moneybag: | Inglês
 [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
 [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do) | Go | :red_circle: | E-book | :moneybag: | Inglês
 
