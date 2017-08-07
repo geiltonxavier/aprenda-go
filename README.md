@@ -61,7 +61,15 @@ Título | Assunto | Formato | Preço | Idioma
 [An Introduction to Programming in Go](http://www.golang-book.com/books/intro) | Go | E-book | :free: | Inglês
 [Programando em Go](https://www.casadocodigo.com.br/products/livro-google-go) | Go | E-book e Físico | :moneybag: | Português
 [Go by Example](https://gobyexample.com/) | Go | E-book | :free: | Inglês
-
+[The Little Go Book](http://openmymind.net/The-Little-Go-Book/) | Go | E-book | :free: | Inglês
+[Go Bootcamp](http://www.golangbootcamp.com/) | Go | E-book | :free: | Inglês
+[Learning Go](http://www.miek.nl/go) | Go | E-book | :free: | Inglês
+[Test-driven development with Go ](https://leanpub.com/golang-tdd) | Go | E-book | :free: | Inglês
+[Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do) | Go | E-book | :moneybag: | Inglês
+[Go in Practice](http://www.manning.com/butcher/) | Go | E-book | :moneybag: | Inglês
+[A Go Developer's Notebook](https://leanpub.com/GoNotebook/) | Go | E-book | :moneybag: | Inglês
+[The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143) | Go | E-book | :moneybag: | Inglês
+[Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns) | Go | E-book | :moneybag: | Inglês
 
 [Ir para o índice](#Índice)
 
