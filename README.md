@@ -25,7 +25,7 @@ Uma lista contendo cursos, livros, blogs, palestras, etc. Inspirada em [aprenda-
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
 	<a href="#paperclip-feeds">Feeds</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
-	<a href="#bust_in_silhouette-rubistas">Gophers</a>
+	<a href="#bust_in_silhouette-gophers">Gophers</a>
 </p>
 
 ## :mortar_board: Cursos
