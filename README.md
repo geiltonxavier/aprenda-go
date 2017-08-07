@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/geiltonxavier/aprenda-go/gopher.png" alt="Aprenda Go" style="max-width:100%;">
+	<img src="https://raw.githubusercontent.com/geiltonxavier/aprenda-go/master/gopher.png" alt="Aprenda Go" style="max-width:100%;">
 </p>
 
 <h1 align="center">Aprenda Go</h1>
@@ -54,9 +54,6 @@ Título | Assunto | Formato | Preço | Idioma
 [A Linguagem de Programação Go](https://novatec.com.br/livros/linguagem-de-programacao-go/) | Go | Físico | :moneybag: | Português
 [Introducing Go](http://a.co/c690qEt) | Go | E-book e Físico | :moneybag: | Inglês
 [Introdução à linguagem Go](https://novatec.com.br/livros/introducao-linguagem-go/) | Go | Físico | :moneybag: | Português
-
-
-
 [An Introduction to Programming in Go](http://www.golang-book.com/books/intro) | Go | E-book | :free: | Inglês
 
 [Ir para o índice](#Índice)
