@@ -119,6 +119,7 @@ Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
 [Canal: brazilian-go-studies](https://invite.slack.golangbridge.org/) | Slack | Português/Inglês
 [Golang Brasil](https://www.meetup.com/pt-BR/golangbr/) | Meetup | Português
+[Go Belo Horizonte](https://www.meetup.com/pt-BR/go-belo-horizonte/) | Meetup | Português
 
 [Ir para o índice](#Índice)
 
