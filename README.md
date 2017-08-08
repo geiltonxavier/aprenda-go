@@ -132,7 +132,6 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
-[Ruby Rogues](https://devchat.tv/ruby-rogues) | Inglês
 [Wiki Podcasts](https://github.com/golang/go/wiki/Podcasts) | Inglês
 [Gopher Pods](https://gopherpods.appspot.com/) | Inglês
 [PodTech](https://soundcloud.com/euprogramador/sets/podtech/) | Português
