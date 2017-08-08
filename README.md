@@ -61,6 +61,7 @@ Título | Assunto | Nível | Formato | Preço | Idioma
 [An Introduction to Programming in Go](http://www.golang-book.com/books/intro) | Go |:green_heart: | E-book | :free: | Inglês
 [Programando em Go](https://www.casadocodigo.com.br/products/livro-google-go) | Go | :green_heart: |E-book e Físico | :moneybag: | Português
 [Go by Example](https://gobyexample.com/) | Go |:green_heart: | E-book | :free: | Inglês
+[Go por exemplo](http://goporexemplo.golangbr.org/) | Go | :green_heart: | E-book | :free: | Português
 [The Little Go Book](http://openmymind.net/The-Little-Go-Book/) | Go | :green_heart: | E-book | :free: | Inglês
 [Learning Go](http://www.miek.nl/go) | Go | :green_heart: | E-book | :free: | Inglês
 [The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143) | Go | :green_heart: | E-book | :moneybag: | Inglês
