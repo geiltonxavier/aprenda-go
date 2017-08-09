@@ -51,7 +51,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 ## :book: Livros
 
-Título | Assunto | Nível | Formato | Preço | Idioma
+Título | Assunto | Nível | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--: | :--:
 [Go in Action](http://a.co/h1a4VDb) | Go |:green_heart: | E-book e Físico | :moneybag: | Inglês
 [Go em Ação](https://novatec.com.br/livros/go-em-acao/) | Go | :green_heart: | Físico | :moneybag: | Português
