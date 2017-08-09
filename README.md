@@ -69,7 +69,7 @@ Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
 [Avelino](https://medium.com/@avelino0) | Thiago Avelino | Português/Inglês
 [goinggo](https://goinggo.io/) | João Henrique Machado | Inglês
-[felipeweb](https://felipeweb.net.br/) | Felipe Oliveira | Português/Inglês
+[felipeweb](https://www.felipeweb.net.br/) | Felipe Oliveira | Português/Inglês
 
 [Ir para o índice](#Índice)
 
