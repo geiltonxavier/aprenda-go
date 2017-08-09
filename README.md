@@ -71,6 +71,7 @@ Título | Assunto | Nível | Formato | Preço | Idioma
 [Go in Practice](http://www.manning.com/butcher/) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
 [A Go Developer's Notebook](https://leanpub.com/GoNotebook/) | Go |:large_orange_diamond: | E-book | :moneybag: | Inglês
 [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
+[Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) | Go | :large_orange_diamond: | E-book | :free: | Inglês
 [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do) | Go | :red_circle: | E-book | :moneybag: | Inglês
 
 [Ir para o índice](#Índice)
