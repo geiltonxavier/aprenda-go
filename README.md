@@ -90,8 +90,8 @@ Blog | Principal(is) Autor(es) | Idioma
 
 Título | Evento | Assuntos
 :-- | :-- | :--
-[GopherCon Brasil](https://www.youtube.com/playlist?list=PLOpPtg0fjj4g5nB62khFCGAzhYOXuY_0k) | GopherCon | Go Stack, Empreendedorismo
 [7Masters Golang](https://www.youtube.com/watch?v=vWdLM3IK0gw&list=PLXFk6ROPeWoC3KHa6HOVMpRjhZkaRyLIh) | 7Masters | Go Stack, Casos de uso
+[GopherCon Brasil](https://www.youtube.com/playlist?list=PLOpPtg0fjj4g5nB62khFCGAzhYOXuY_0k) | GopherCon | Go Stack, Empreendedorismo
 [Por que Golang?](https://www.youtube.com/watch?v=h_9UNH6pkyo) | HHBR | Adoção da linguagem, Sintaxe, Asincronismo
 
 
