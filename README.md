@@ -136,10 +136,10 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
-[Wiki Podcasts](https://github.com/golang/go/wiki/Podcasts) | Inglês
 [Gopher Pods](https://gopherpods.appspot.com/) | Inglês
 [Go Time](https://changelog.com/gotime) | Inglês
 [PodTech](https://soundcloud.com/euprogramador/sets/podtech/) | Português
+[Wiki Podcasts](https://github.com/golang/go/wiki/Podcasts) | Inglês
 
 
 
