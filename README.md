@@ -120,8 +120,10 @@ Nome do Evento | Região Realizada
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
 [Canal: brazilian-go-studies](https://invite.slack.golangbridge.org/) | Slack | Português/Inglês
-[Golang Brasil](https://www.meetup.com/pt-BR/golangbr/) | Meetup | Português
+[Floripa Gophers](https://www.meetup.com/pt-BR/Floripa-Gophers/) | Meetup | Portugês
 [Go Belo Horizonte](https://www.meetup.com/pt-BR/go-belo-horizonte/) | Meetup | Português
+[Golang Brasil](https://www.meetup.com/pt-BR/golangbr/) | Meetup | Português
+[Gophers Rio](https://www.meetup.com/pt-BR/Gophers-Rio/) | Meetup | Português
 
 [Ir para o índice](#Índice)
 
