@@ -64,14 +64,14 @@ Título | Assunto | Nível | Formato | Pago/Gratuito | Idioma
 [Introducing Go](http://a.co/c690qEt) | Go | :green_heart: |E-book e Físico | :moneybag: | Inglês
 [Learning Go](http://www.miek.nl/go) | Go | :green_heart: | E-book | :free: | Inglês
 [The Go Programming Language](http://a.co/1sASvak) | Go | :green_heart: | E-book e Físico | :moneybag: | Inglês
+[The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143) | Go | :green_heart: | E-book | :moneybag: | Inglês
+[The Little Go Book](http://openmymind.net/The-Little-Go-Book/) | Go | :green_heart: | E-book | :free: | Inglês
 [A Go Developer's Notebook](https://leanpub.com/GoNotebook/) | Go |:large_orange_diamond: | E-book | :moneybag: | Inglês
 [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) | Go | :large_orange_diamond: | E-book | :free: | Inglês
 [Go Bootcamp](http://www.golangbootcamp.com/) | Go | :large_orange_diamond: | E-book | :free: | Inglês
 [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
 [Go in Practice](http://www.manning.com/butcher/) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
 [Test-driven development with Go ](https://leanpub.com/golang-tdd) | Go |:large_orange_diamond: | E-book | :free: | Inglês
-[The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143) | Go | :green_heart: | E-book | :moneybag: | Inglês
-[The Little Go Book](http://openmymind.net/The-Little-Go-Book/) | Go | :green_heart: | E-book | :free: | Inglês
 [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do) | Go | :red_circle: | E-book | :moneybag: | Inglês
 
 
