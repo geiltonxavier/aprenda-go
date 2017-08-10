@@ -53,25 +53,25 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Nível | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--: | :--:
-[Go in Action](http://a.co/h1a4VDb) | Go |:green_heart: | E-book e Físico | :moneybag: | Inglês
-[Go em Ação](https://novatec.com.br/livros/go-em-acao/) | Go | :green_heart: | Físico | :moneybag: | Português
-[The Go Programming Language](http://a.co/1sASvak) | Go | :green_heart: | E-book e Físico | :moneybag: | Inglês
 [A Linguagem de Programação Go](https://novatec.com.br/livros/linguagem-de-programacao-go/) | Go | :green_heart: |Físico | :moneybag: | Português
-[Introducing Go](http://a.co/c690qEt) | Go | :green_heart: |E-book e Físico | :moneybag: | Inglês
-[Introdução à linguagem Go](https://novatec.com.br/livros/introducao-linguagem-go/) | Go |:green_heart: | Físico | :moneybag: | Português
-[An Introduction to Programming in Go](http://www.golang-book.com/books/intro) | Go |:green_heart: | E-book | :free: | Inglês
-[Programando em Go](https://www.casadocodigo.com.br/products/livro-google-go) | Go | :green_heart: |E-book e Físico | :moneybag: | Português
-[Go by Example](https://gobyexample.com/) | Go |:green_heart: | E-book | :free: | Inglês
+[Go em Ação](https://novatec.com.br/livros/go-em-acao/) | Go | :green_heart: | Físico | :moneybag: | Português
 [Go por exemplo](http://goporexemplo.golangbr.org/) | Go | :green_heart: | E-book | :free: | Português
-[The Little Go Book](http://openmymind.net/The-Little-Go-Book/) | Go | :green_heart: | E-book | :free: | Inglês
+[Introdução à linguagem Go](https://novatec.com.br/livros/introducao-linguagem-go/) | Go |:green_heart: | Físico | :moneybag: | Português
+[Programando em Go](https://www.casadocodigo.com.br/products/livro-google-go) | Go | :green_heart: |E-book e Físico | :moneybag: | Português
+[An Introduction to Programming in Go](http://www.golang-book.com/books/intro) | Go |:green_heart: | E-book | :free: | Inglês
+[Go by Example](https://gobyexample.com/) | Go |:green_heart: | E-book | :free: | Inglês
+[Go in Action](http://a.co/h1a4VDb) | Go |:green_heart: | E-book e Físico | :moneybag: | Inglês
+[Introducing Go](http://a.co/c690qEt) | Go | :green_heart: |E-book e Físico | :moneybag: | Inglês
 [Learning Go](http://www.miek.nl/go) | Go | :green_heart: | E-book | :free: | Inglês
-[The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143) | Go | :green_heart: | E-book | :moneybag: | Inglês
-[Go Bootcamp](http://www.golangbootcamp.com/) | Go | :large_orange_diamond: | E-book | :free: | Inglês
-[Test-driven development with Go ](https://leanpub.com/golang-tdd) | Go |:large_orange_diamond: | E-book | :free: | Inglês
-[Go in Practice](http://www.manning.com/butcher/) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
+[The Go Programming Language](http://a.co/1sASvak) | Go | :green_heart: | E-book e Físico | :moneybag: | Inglês
 [A Go Developer's Notebook](https://leanpub.com/GoNotebook/) | Go |:large_orange_diamond: | E-book | :moneybag: | Inglês
-[Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
 [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) | Go | :large_orange_diamond: | E-book | :free: | Inglês
+[Go Bootcamp](http://www.golangbootcamp.com/) | Go | :large_orange_diamond: | E-book | :free: | Inglês
+[Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
+[Go in Practice](http://www.manning.com/butcher/) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
+[Test-driven development with Go ](https://leanpub.com/golang-tdd) | Go |:large_orange_diamond: | E-book | :free: | Inglês
+[The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143) | Go | :green_heart: | E-book | :moneybag: | Inglês
+[The Little Go Book](http://openmymind.net/The-Little-Go-Book/) | Go | :green_heart: | E-book | :free: | Inglês
 [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do) | Go | :red_circle: | E-book | :moneybag: | Inglês
 
 [Ir para o índice](#Índice)
