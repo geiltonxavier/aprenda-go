@@ -74,6 +74,7 @@ Título | Assunto | Nível | Formato | Pago/Gratuito | Idioma
 [The Little Go Book](http://openmymind.net/The-Little-Go-Book/) | Go | :green_heart: | E-book | :free: | Inglês
 [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do) | Go | :red_circle: | E-book | :moneybag: | Inglês
 
+
 [Ir para o índice](#Índice)
 
 ## :newspaper: Blogs
@@ -83,6 +84,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Avelino](https://medium.com/@avelino0) | Thiago Avelino | Português/Inglês
 [felipeweb](https://www.felipeweb.net.br/) | Felipe Oliveira | Português/Inglês
 [goinggo](https://goinggo.io/) | João Henrique Machado | Inglês
+
 
 [Ir para o índice](#Índice)
 
@@ -105,7 +107,6 @@ Título | Assunto | Idioma
 
 [Ir para o índice](#Índice)
 
-
 ## :circus_tent: Eventos Ativos
 
 Nome do Evento | Região Realizada
@@ -125,6 +126,7 @@ Nome da Comunidade | Tipo | Idioma
 [Golang Brasil](https://www.meetup.com/pt-BR/golangbr/) | Meetup | Português
 [Gophers Rio](https://www.meetup.com/pt-BR/Gophers-Rio/) | Meetup | Português
 
+
 [Ir para o índice](#Índice)
 
 ## :paperclip: Feeds
@@ -132,6 +134,7 @@ Nome do Feed | Idioma
 :-- | :--:
 [A Semana Go](http://asemanago.com.br/) | Português
 [Go News](https://golangweekly.com/) | Inglês
+
 
 [Ir para o índice](#Índice)
 
@@ -142,8 +145,6 @@ Nome do Podcast | Idioma
 [Go Time](https://changelog.com/gotime) | Inglês
 [PodTech](https://soundcloud.com/euprogramador/sets/podtech/) | Português
 [Wiki Podcasts](https://github.com/golang/go/wiki/Podcasts) | Inglês
-
-
 
 
 [Ir para o índice](#Índice)
@@ -167,6 +168,10 @@ Steve Francia | [spf13](https://github.com/spf13)
 Thiago Avelino | [avelino](https://github.com/avelino)
 
 
+[Ir para o índice](#Índice)
+
+## :mortar_board: Quer ajudar?
+Veja como [contribuir](CONTRIBUTING.md).
 
 
 [Ir para o índice](#Índice)
