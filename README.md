@@ -45,6 +45,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Introdução a Linguagem Go (Golang)](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) | EuProgramador/YouTube | :green_heart: | Go | :free:
 [Creating Web Applications with Go](https://app.pluralsight.com/library/courses/creating-web-applications-go-update) | Pluralsight | :large_orange_diamond: | Go | :moneybag:
 [Building Distributed Applications with Go](https://app.pluralsight.com/library/courses/go-build-distributed-applications) | Pluralsight | :red_circle: | Go | :moneybag:
+[Curso Go: Iniciando com a linguagem do Google](https://cursos.alura.com.br/course/golang) | Alura | :green_heart: | Go | :moneybag:
 
 
 [Ir para o índice](#Índice)
