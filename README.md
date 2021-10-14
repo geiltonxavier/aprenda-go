@@ -141,7 +141,6 @@ Nome do Feed | Idioma
 Nome do Podcast | Idioma
 :-- | :--:
 [PodTech](https://soundcloud.com/euprogramador/sets/podtech/) | Português
-[Gopher Pods](https://gopherpods.appspot.com/) | Inglês
 [Go Time](https://changelog.com/gotime) | Inglês
 [Wiki Podcasts](https://github.com/golang/go/wiki/Podcasts) | Inglês
 
