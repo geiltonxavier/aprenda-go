@@ -8,7 +8,7 @@
 
 <p align="center">
 	<a href="https://travis-ci.org/geiltonxavier/aprenda-go" target="_blank">
-		<img src="https://travis-ci.org/geiltonxavier/aprenda-go.svg?branch=master">
+		<img src="https://www.travis-ci.com/geiltonxavier/aprenda-go.svg?branch=master">
 	</a>
 </p>
 
