@@ -7,7 +7,7 @@
 <p align="center">Central de conhecimento sobre Go e afins.</p>
 
 <p align="center">
-	<a href="https://travis-ci.org/geiltonxavier/aprenda-go" target="_blank">
+	<a href="https://www.travis-ci.com/geiltonxavier/aprenda-go" target="_blank">
 		<img src="https://www.travis-ci.com/geiltonxavier/aprenda-go.svg?branch=master">
 	</a>
 </p>
