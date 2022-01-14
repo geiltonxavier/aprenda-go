@@ -164,6 +164,7 @@ Nate Finch| [natefinch](https://github.com/natefinch)
 Peter Bourgon | [peterbourgon](https://github.com/peterbourgon)
 Steve Francia | [spf13](https://github.com/spf13)
 Thiago Avelino | [avelino](https://github.com/avelino)
+Carlos Alexandro | [caarlos0](https://github.com/caarlos0)
 
 
 [Ir para o índice](#Índice)
