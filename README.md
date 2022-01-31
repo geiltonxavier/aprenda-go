@@ -85,7 +85,7 @@ Título | Assunto | Nível | Formato | Pago/Gratuito | Idioma
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
 [Avelino](https://avelino.run/) | Thiago Avelino | Português/Inglês
-[Elton](https://eltonminetto.dev/) | Elton Minetto | Português
+[Elton](https://eltonminetto.dev/) | Elton Minetto | Português/Inglês
 
 
 [Ir para o índice](#Índice)
