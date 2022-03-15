@@ -44,6 +44,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Go Hands On](https://github.com/crgimenes/Go-Hands-On) | Cesar Gimenes/GitHub | :green_heart: | Go | :free:
 [Iniciando com Go para Web](https://www.schoolofnet.com/curso-iniciando-com-go-para-web/) | School of Net | :green_heart: | Go | :free:
 [Introdução a Linguagem Go (Golang)](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) | EuProgramador/YouTube | :green_heart: | Go | :free:
+[Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) | Ellen Korbes/YouTube | :green_heart: | Go | :free:
 [Creating Web Applications with Go](https://app.pluralsight.com/library/courses/creating-web-applications-go-update) | Pluralsight | :large_orange_diamond: | Go | :moneybag:
 [Building Distributed Applications with Go](https://app.pluralsight.com/library/courses/go-build-distributed-applications) | Pluralsight | :red_circle: | Go | :moneybag:
 
@@ -84,6 +85,7 @@ Título | Assunto | Nível | Formato | Pago/Gratuito | Idioma
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
 [Avelino](https://avelino.run/) | Thiago Avelino | Português/Inglês
+[Elton](https://eltonminetto.dev/) | Elton Minetto | Português/Inglês
 
 
 [Ir para o índice](#Índice)
@@ -165,6 +167,7 @@ Peter Bourgon | [peterbourgon](https://github.com/peterbourgon)
 Steve Francia | [spf13](https://github.com/spf13)
 Thiago Avelino | [avelino](https://github.com/avelino)
 Carlos Alexandro | [caarlos0](https://github.com/caarlos0)
+Elton Minetto | [eminetto](https://github.com/eminetto)
 
 
 [Ir para o índice](#Índice)
