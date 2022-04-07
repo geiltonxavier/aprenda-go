@@ -6,12 +6,6 @@
 
 <p align="center">Central de conhecimento sobre Go e afins.</p>
 
-<p align="center">
-	<a href="https://www.travis-ci.com/geiltonxavier/aprenda-go" target="_blank">
-		<img src="https://www.travis-ci.com/geiltonxavier/aprenda-go.svg?branch=master">
-	</a>
-</p>
-
 Uma lista contendo cursos, livros, blogs, palestras, etc. Inspirada em [aprenda-rubyonrails](https://github.com/felipeorlando/aprenda-rubyonrails).
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
