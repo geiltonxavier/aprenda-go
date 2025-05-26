@@ -34,13 +34,27 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
 [Aprenda a programar em Go ](https://www.udemy.com/cursodego/) | Jeff Prestes/Udemy | :green_heart: | Go | :moneybag:
 [Go Básico](https://www.treinaweb.com.br/curso/go-basico) | Treinaweb | :green_heart: | Go | :moneybag:
+
+A Alura também oferece "Formações" completas em Go, como a [Formação Aprenda a programar em Go](https://www.alura.com.br/formacao-aprenda-programar-go) e a [Formação Linguagem Go](https://www.alura.com.br/formacao-go).
+
 [Curso Go: Iniciando com a linguagem do Google](https://cursos.alura.com.br/course/golang) | Alura | :green_heart: | Go | :moneybag:
+[Go: Orientação a Objetos](https://www.alura.com.br/curso-online-go-lang-oo) | Alura | :green_heart: | Go | :moneybag:
+[Go: crie uma aplicação web](https://www.alura.com.br/curso-online-go-lang-web) | Alura | :green_heart: | Go | :moneybag:
+[Go: desenvolvendo uma API Rest](https://www.alura.com.br/curso-online-go-desenvolvendo-api-rest) | Alura | :large_orange_diamond: | Go | :moneybag:
+[Go: validações, testes e páginas HTML](https://www.alura.com.br/curso-online-go-validacoes-testes-paginas-html) | Alura | :large_orange_diamond: | Go | :moneybag:
+[Go e Gin: criando API rest com simplicidade](https://www.alura.com.br/curso-online-go-gin-api-rest-simplicidade) | Alura | :large_orange_diamond: | Go | :moneybag:
+[Go: gerenciando e otimizando sua API](https://www.alura.com.br/curso-online-go-gerenciando-otimizando-api) | Alura | :large_orange_diamond: | Go | :moneybag:
+[Go: criando uma API Rest](https://www.alura.com.br/curso-online-go-criando-api-rest) | Alura | :large_orange_diamond: | Go | :moneybag:
+[Go: use concorrência para otimizar sua aplicação](https://www.alura.com.br/curso-online-go-concorrencia-otimizar-aplicacao) | Alura | :large_orange_diamond: | Go | :moneybag:
+[Go: crie Métodos, Generics e Interface](https://www.alura.com.br/curso-online-go-crie-metodos-generics-interface) | Alura | :large_orange_diamond: | Go | :moneybag:
+[Go e refatoração: melhorando códigos com boas práticas](https://www.alura.com.br/curso-online-go-refatoracao-melhorando-codigos-boas-praticas) | Alura | :large_orange_diamond: | Go | :moneybag:
 [Go Hands On](https://github.com/crgimenes/Go-Hands-On) | Cesar Gimenes/GitHub | :green_heart: | Go | :free:
 [Iniciando com Go para Web](https://www.schoolofnet.com/curso-iniciando-com-go-para-web/) | School of Net | :green_heart: | Go | :free:
 [Introdução a Linguagem Go (Golang)](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) | EuProgramador/YouTube | :green_heart: | Go | :free:
 [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) | Ellen Korbes/YouTube | :green_heart: | Go | :free:
 [Creating Web Applications with Go](https://app.pluralsight.com/library/courses/creating-web-applications-go-update) | Pluralsight | :large_orange_diamond: | Go | :moneybag:
 [Building Distributed Applications with Go](https://app.pluralsight.com/library/courses/go-build-distributed-applications) | Pluralsight | :red_circle: | Go | :moneybag:
+[Pós GO Expert](https://goexpert.fullcycle.com.br/pos-goexpert/) | Full Cycle | :red_circle: | Go | :moneybag:
 
 
 
