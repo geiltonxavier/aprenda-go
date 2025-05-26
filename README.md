@@ -34,9 +34,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
 [Aprenda a programar em Go ](https://www.udemy.com/cursodego/) | Jeff Prestes/Udemy | :green_heart: | Go | :moneybag:
 [Go Básico](https://www.treinaweb.com.br/curso/go-basico) | Treinaweb | :green_heart: | Go | :moneybag:
-
-A Alura também oferece "Formações" completas em Go, como a [Formação Aprenda a programar em Go](https://www.alura.com.br/formacao-aprenda-programar-go) e a [Formação Linguagem Go](https://www.alura.com.br/formacao-go).
-
 [Curso Go: Iniciando com a linguagem do Google](https://cursos.alura.com.br/course/golang) | Alura | :green_heart: | Go | :moneybag:
 [Go: Orientação a Objetos](https://www.alura.com.br/curso-online-go-lang-oo) | Alura | :green_heart: | Go | :moneybag:
 [Go: crie uma aplicação web](https://www.alura.com.br/curso-online-go-lang-web) | Alura | :green_heart: | Go | :moneybag:
