@@ -39,6 +39,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Curso Go: Iniciando com a linguagem do Google](https://cursos.alura.com.br/course/golang) | Alura | :green_heart: | Go | :moneybag:
 [Go Fundamentals](https://www.ardanlabs.com/training/) | Ardan Labs | :green_heart: | Go | :moneybag:
 [Go Hands On](https://github.com/crgimenes/Go-Hands-On) | Cesar Gimenes/GitHub | :green_heart: | Go | :free:
+[Go Expert](https://goexpert.fullcycle.com.br/) | Full Cycle | :red_circle: | Go | :moneybag:
 [Ultimate Go](https://www.ardanlabs.com/training/) | Ardan Labs | :red_circle: | Go | :moneybag:
 [Ultimate Service (Microservices em Go)](https://www.ardanlabs.com/training/) | Ardan Labs | :red_circle: | Go | :moneybag:
 [Iniciando com Go para Web](https://www.schoolofnet.com/curso-iniciando-com-go-para-web/) | School of Net | :green_heart: | Go | :free:
@@ -85,6 +86,7 @@ Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
 [Avelino](https://avelino.run/) | Thiago Avelino | Português/Inglês
 [Elton](https://eltonminetto.dev/) | Elton Minetto | Português/Inglês
+[Ellen Körbes](https://ellenkorbes.com/) | Ellen Körbes | Português/Inglês
 
 
 [Ir para o índice](#Índice)
@@ -122,6 +124,7 @@ Nome do Evento | Região Realizada
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
 [Canal: brazilian-go-studies](https://invite.slack.golangbridge.org/) | Slack | Português/Inglês
+[Golang Brasil](https://t.me/golangbr) | Telegram | Português
 [Floripa Gophers](https://www.meetup.com/pt-BR/Floripa-Gophers/) | Meetup | Português
 [Go Belo Horizonte](https://www.meetup.com/pt-BR/go-belo-horizonte/) | Meetup | Português
 [Golang Brasil](https://www.meetup.com/pt-BR/golangbr/) | Meetup | Português
