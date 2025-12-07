@@ -8,6 +8,8 @@
 
 Uma lista contendo cursos, livros, blogs, palestras, etc. Inspirada em [aprenda-rubyonrails](https://github.com/felipeorlando/aprenda-rubyonrails).
 
+> Nota: repositório iniciado em 2017; alguns links ou cursos podem estar desatualizados. Contribuições são bem-vindas via PRs.
+
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
 	<a href="#mortar_board-cursos">Cursos</a> •
@@ -35,7 +37,10 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Aprenda a programar em Go ](https://www.udemy.com/cursodego/) | Jeff Prestes/Udemy | :green_heart: | Go | :moneybag:
 [Go Básico](https://www.treinaweb.com.br/curso/go-basico) | Treinaweb | :green_heart: | Go | :moneybag:
 [Curso Go: Iniciando com a linguagem do Google](https://cursos.alura.com.br/course/golang) | Alura | :green_heart: | Go | :moneybag:
+[Go Fundamentals](https://www.ardanlabs.com/training/) | Ardan Labs | :green_heart: | Go | :moneybag:
 [Go Hands On](https://github.com/crgimenes/Go-Hands-On) | Cesar Gimenes/GitHub | :green_heart: | Go | :free:
+[Ultimate Go](https://www.ardanlabs.com/training/) | Ardan Labs | :red_circle: | Go | :moneybag:
+[Ultimate Service (Microservices em Go)](https://www.ardanlabs.com/training/) | Ardan Labs | :red_circle: | Go | :moneybag:
 [Iniciando com Go para Web](https://www.schoolofnet.com/curso-iniciando-com-go-para-web/) | School of Net | :green_heart: | Go | :free:
 [Introdução a Linguagem Go (Golang)](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) | EuProgramador/YouTube | :green_heart: | Go | :free:
 [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) | Ellen Korbes/YouTube | :green_heart: | Go | :free:
