@@ -114,7 +114,7 @@ Título | Assunto | Idioma
 
 Nome do Evento | Região Realizada
 :-- | :--
-[GopherCon Brasil](http://gopherconbr.org) | Florianópolis, SC
+[GopherCon Latam](https://gopherconlatam.org) | Florianópolis, SC
 
 
 [Ir para o índice](#Índice)
@@ -127,7 +127,7 @@ Nome da Comunidade | Tipo | Idioma
 [Golang Brasil](https://t.me/golangbr) | Telegram | Português
 [Floripa Gophers](https://www.meetup.com/pt-BR/Floripa-Gophers/) | Meetup | Português
 [Go Belo Horizonte](https://www.meetup.com/pt-BR/go-belo-horizonte/) | Meetup | Português
-[Golang Brasil](https://www.meetup.com/pt-BR/golangbr/) | Meetup | Português
+[Golang SP](https://www.meetup.com/pt-BR/golangbr/) | Meetup | Português
 [Gophers Rio](https://www.meetup.com/pt-BR/Gophers-Rio/) | Meetup | Português
 
 
