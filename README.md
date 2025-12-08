@@ -136,6 +136,7 @@ Nome da Comunidade | Tipo | Idioma
 ## :paperclip: Feeds
 Nome do Feed | Idioma
 :-- | :--:
+[Semana Go](https://www.asemanago.dev/) | Português
 [Go News](https://golangweekly.com/) | Inglês
 
 
