@@ -47,6 +47,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) | Ellen Korbes/YouTube | :green_heart: | Go | :free:
 [Creating Web Applications with Go](https://app.pluralsight.com/library/courses/creating-web-applications-go-update) | Pluralsight | :large_orange_diamond: | Go | :moneybag:
 [Building Distributed Applications with Go](https://app.pluralsight.com/library/courses/go-build-distributed-applications) | Pluralsight | :red_circle: | Go | :moneybag:
+[A Tour of Go](https://go.dev/tour/) | go.dev (oficial) | :green_heart: | Go | :free:
 
 
 
@@ -71,11 +72,11 @@ Título | Assunto | Nível | Formato | Pago/Gratuito | Idioma
 [The Little Go Book](http://openmymind.net/The-Little-Go-Book/) | Go | :green_heart: | E-book | :free: | Inglês
 [A Go Developer's Notebook](https://leanpub.com/GoNotebook/) | Go |:large_orange_diamond: | E-book | :moneybag: | Inglês
 [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) | Go | :large_orange_diamond: | E-book | :free: | Inglês
-[Go Bootcamp](https://github.com/golangbootcamp/golangbootcamp) | Go | :large_orange_diamond: | E-book | :free: | Inglês
 [Go Design Patterns](https://www.packtpub.com/product/go-design-patterns/9781786466208) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
 [Go in Practice](http://www.manning.com/butcher/) | Go | :large_orange_diamond: | E-book | :moneybag: | Inglês
-[Test-driven development with Go ](https://leanpub.com/golang-tdd) (link indisponível no Leanpub) | Go |:large_orange_diamond: | E-book | :free: | Inglês
+[Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) | Go |:large_orange_diamond: | E-book | :free: | Inglês
 [Mastering Concurrency in Go](https://www.packtpub.com/product/mastering-concurrency-in-go/9781783983483) | Go | :red_circle: | E-book | :moneybag: | Inglês
+[100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them) | Go | :large_orange_diamond: | E-book e Físico | :moneybag: | Inglês
 
 
 [Ir para o índice](#Índice)
@@ -86,7 +87,8 @@ Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
 [Avelino](https://avelino.run/) | Thiago Avelino | Português/Inglês
 [Elton](https://eltonminetto.dev/) | Elton Minetto | Português/Inglês
-[Ellen Körbes](https://github.com/ellenkorbes) | Ellen Körbes | Português/Inglês
+[caarlos0](https://caarlos0.dev/) | Carlos Alexandro | Português/Inglês
+[Official Go Blog](https://go.dev/blog) | Equipe Go (oficial) | Inglês
 
 
 [Ir para o índice](#Índice)
@@ -148,6 +150,7 @@ Nome do Podcast | Idioma
 [PodTech](https://soundcloud.com/euprogramador/sets/podtech/) | Português
 [Go Time](https://changelog.com/gotime) | Inglês
 [Wiki Podcasts](https://github.com/golang/go/wiki/Podcasts) | Inglês
+[Cup o' Go](https://cupogo.dev) | Inglês
 
 
 [Ir para o índice](#Índice)
